@@ -9,3 +9,7 @@ Este es un proyecto Django que permite gestionar una tienda de plantas. Incluye 
 1. Instalar las dependencias:
    ```bash
    pip install -r requirements.txt
+## Aplicar migraciones
+python manage.py migrate
+## Ejecutar el servidor de desarrollo:
+python manage.py runserver
