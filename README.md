@@ -13,3 +13,7 @@ Este es un proyecto Django que permite gestionar una tienda de plantas. Incluye 
 python manage.py migrate
 ## Ejecutar el servidor de desarrollo:
 python manage.py runserver
+## Agregar plantas: 
+ Navega a /tienda/agregar/.
+## Buscar plantas:
+Navega a /tienda/buscar/.
